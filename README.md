@@ -5,3 +5,10 @@
 - Git init in the folder
 - Push up a repo
 - deploy as a static app to render with dist as the publish directory and npm install && npm build as the build command
+
+
+## Screenshot
+
+<div>
+   <img src="./public/App.png" alt="HomePage" width="600" height="300"> 
+</div>
